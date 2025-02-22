@@ -1,4 +1,3 @@
-//Mesmo que eu tenha saido da escola quero continuar fazendo as atividades
 
 #include <stdio.h> 
 #include <stdlib.h>
